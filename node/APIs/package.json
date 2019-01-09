@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "locus": "^2.0.1"
   }
 }
